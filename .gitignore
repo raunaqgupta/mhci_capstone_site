@@ -1,3 +1,7 @@
 *.psd
 *.zip
 .sass-cache
+
+# Preventing generated css files to be committed
+main.css
+
