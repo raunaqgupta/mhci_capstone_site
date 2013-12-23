@@ -1,6 +1,8 @@
 *.psd
 *.zip
 .sass-cache
+.DS_Store
+css/*
 
 # Preventing generated css files to be committed
 main.css
